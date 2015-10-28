@@ -1,1 +1,1 @@
-# njit-vagrant-workshop
+# NJIT Vagrant Workshop
